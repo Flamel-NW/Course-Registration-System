@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ae0682de-7fe6-4356-b933-d0559796f987" name="变更" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenRunner">
+    <option name="skipTests" value="true" />
+  </component>
+  <component name="ProjectId" id="2FrOAC9oJ41nN8OBjMCOp3f3s3R" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/flame/IdeaProjects/CourseRegistrationSystem/Background/CourseRegistrationSystem",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "spring.configuration.checksum": "63a54c081ca35c3a8f73d757863b14a7"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\flame\IdeaProjects\CourseRegistrationSystem\src\main\resources\static" />
+      <recent name="C:\Users\flame\IdeaProjects\CourseRegistrationSystem" />
+      <recent name="C:\Users\flame\IdeaProjects\CourseRegistrationSystem\src\main\java\top\garret" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="top.garret.service" />
+      <recent name="top.garret.mapper" />
+      <recent name="top.garret.mapper.association" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="top.garret.utils" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.CourseRegistrationSystemApplication">
+    <configuration name="CourseMapperTest.Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="CourseRegistrationSystem" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="top.garret.mapper.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="top.garret.mapper" />
+      <option name="MAIN_CLASS_NAME" value="top.garret.mapper.CourseMapperTest" />
+      <option name="METHOD_NAME" value="Test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StudentToCourseMapperTest.Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="CourseRegistrationSystem" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="top.garret.mapper.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="top.garret.mapper" />
+      <option name="MAIN_CLASS_NAME" value="top.garret.mapper.StudentToCourseMapperTest" />
+      <option name="METHOD_NAME" value="Test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SystemServiceTest.Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="CourseRegistrationSystem" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="top.garret.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="top.garret.service" />
+      <option name="MAIN_CLASS_NAME" value="top.garret.service.SystemServiceTest" />
+      <option name="METHOD_NAME" value="Test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TeacherToCourseMapperTest.Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="CourseRegistrationSystem" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="top.garret.mapper.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="top.garret.mapper" />
+      <option name="MAIN_CLASS_NAME" value="top.garret.mapper.TeacherToCourseMapperTest" />
+      <option name="METHOD_NAME" value="Test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="studentMapperTest.Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="CourseRegistrationSystem" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="top.garret.mapper.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="top.garret.mapper" />
+      <option name="MAIN_CLASS_NAME" value="top.garret.mapper.studentMapperTest" />
+      <option name="METHOD_NAME" value="Test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CourseRegistrationSystemApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="CourseRegistrationSystem" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="top.garret.CourseRegistrationSystemApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.SystemServiceTest.Test" />
+        <item itemvalue="JUnit.CourseMapperTest.Test" />
+        <item itemvalue="JUnit.studentMapperTest.Test" />
+        <item itemvalue="JUnit.TeacherToCourseMapperTest.Test" />
+        <item itemvalue="JUnit.StudentToCourseMapperTest.Test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="ae0682de-7fe6-4356-b933-d0559796f987" name="变更" comment="" />
+      <created>1665246592486</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1665246592486</updated>
+      <workItem from="1665246594910" duration="2887000" />
+      <workItem from="1665249597275" duration="1132000" />
+      <workItem from="1665284266992" duration="19113000" />
+      <workItem from="1665342423177" duration="1474000" />
+      <workItem from="1665368542589" duration="8616000" />
+      <workItem from="1665384850609" duration="1195000" />
+      <workItem from="1665499668055" duration="1194000" />
+      <workItem from="1665527390588" duration="2443000" />
+      <workItem from="1665741093410" duration="762000" />
+      <workItem from="1665743801549" duration="1193000" />
+      <workItem from="1665750029240" duration="2321000" />
+      <workItem from="1666004823464" duration="9000" />
+      <workItem from="1666542683138" duration="877000" />
+      <workItem from="1666548522858" duration="2819000" />
+      <workItem from="1666578177519" duration="2328000" />
+      <workItem from="1666612694781" duration="6179000" />
+      <workItem from="1666631389067" duration="677000" />
+      <workItem from="1666634083266" duration="295000" />
+      <workItem from="1666686224567" duration="10001000" />
+      <workItem from="1666701656062" duration="1769000" />
+      <workItem from="1666718134677" duration="1033000" />
+      <workItem from="1666722506979" duration="2833000" />
+      <workItem from="1666750829129" duration="1664000" />
+      <workItem from="1666760794890" duration="719000" />
+      <workItem from="1666771466348" duration="218000" />
+      <workItem from="1666791729949" duration="3086000" />
+      <workItem from="1666799399560" duration="7737000" />
+      <workItem from="1666844536460" duration="212000" />
+      <workItem from="1667221368531" duration="1280000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
