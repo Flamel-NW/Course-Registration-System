@@ -1,3 +1,8 @@
+# Course Registration System
+吉林大学2019级软件工程课设
+
+## 接口文档
+
 - 服务器返回信息格式
 ```javascript
 R: {
